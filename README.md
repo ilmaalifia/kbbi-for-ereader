@@ -15,3 +15,7 @@ Terdapat dua versi: berwarna (`dicthtml-id.zip`) dan tidak berwarna (`dicthtml-i
 1. Hubungkan device Kobo ke komputer
 2. Copy file ke folder `.kobo/custom-dict/`, pastikan nama file telah diubah menjadi `dicthtml-id.zip`
 3. Eject device Kobo dan KBBI siap digunakan
+
+## Ketentuan Penggunaan
+
+File ini disediakan hanya untuk penggunaan pribadi atau tujuan non-komersial. Dilarang menjual, memasukkan file ini ke dalam produk atau layanan berbayar, maupun menggunakannya untuk memperoleh keuntungan komersial tanpa izin tertulis dari pemegang hak.
