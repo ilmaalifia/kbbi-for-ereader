@@ -2,9 +2,9 @@
 
 Data kamus edisi Oktober 2026
 
-Jumlah entri: 211.459
+Jumlah entri: 211.474 dari target 211.500 (~99.99%)
 
-## Device: Kobo
+## Kobo
 
 File dapat diakses [di sini](https://github.com/ilmaalifia/kbbi-for-ereader/releases/tag/v1.0.0). 
 
